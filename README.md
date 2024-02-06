@@ -2,12 +2,12 @@
 ## Applied Computer Science
 # 3rd semester backup
 
-*Programming Paradigms 
-*Effective programming techniques
+* Programming Paradigms 
+* Effective programming techniques
 
 ### abbreviation meaning
-*l - Laboratories
-*c - Classes
+* l - Laboratories
+* c - Classes
 
 ### IDE
 * Scala3 and Ocaml - Visual Studio Code (Linux)
