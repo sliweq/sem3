@@ -1,0 +1,14 @@
+﻿  CMyString.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(7,48): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(34,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(37,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(83,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(86,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(125,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(137,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(140,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(154,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\ExtraList\CMyString.cpp(176,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  ExtraList.vcxproj -> C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\ExtraList\x64\Debug\ExtraList.exe

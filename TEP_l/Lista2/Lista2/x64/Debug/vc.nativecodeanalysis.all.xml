@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista2\Lista2\</FILEPATH>
+      <FILENAME>CNumber.cpp</FILENAME>
+      <LINE>6</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Zmienna „CNumber::pi_table” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6).</DESCRIPTION>
+    <FUNCTION>CNumber::{ctor}</FUNCTION>
+    <DECORATED>??0CNumber@@QEAA@XZ</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>CNumber::pi_table</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista2\Lista2\</FILEPATH>
+      <FILENAME>CNumber.cpp</FILENAME>
+      <LINE>88</LINE>
+      <COLUMN>66</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie arytmetyczne: użycie operatora „+” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „+” w celu uniknięcia przepełnienia (io.2).</DESCRIPTION>
+    <FUNCTION>CNumber::+</FUNCTION>
+    <DECORATED>??HCNumber@@QEAAXAEBV0@@Z</DECORATED>
+    <FUNCLINE>60</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista2\Lista2\</FILEPATH>
+      <FILENAME>CNumber.cpp</FILENAME>
+      <LINE>166</LINE>
+      <COLUMN>28</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Przepełnienie arytmetyczne: użycie operatora „+” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „+” w celu uniknięcia przepełnienia (io.2).</DESCRIPTION>
+    <FUNCTION>CNumber::v_add_two_tables</FUNCTION>
+    <DECORATED>?v_add_two_tables@CNumber@@QEAAXV1@PEAV1@@Z</DECORATED>
+    <FUNCLINE>158</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

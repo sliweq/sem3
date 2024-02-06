@@ -1,0 +1,10 @@
+Zadanie 3 
+Co lazy robi. Opóźnia nam wyliczenie funkcji
+
+lazy nam powiedzmy zamraża a Lazy.force odmraża
+
+Ocaml, czy scala to języki z ewaluacja gorliwą czyli wyliczenie następuje od razu
+kolejność: 
+1 deklaracja zmiennej
+2 zdefiniowanie wyrażenia, z wartością którego zmienna ma być związana 
+3 ewaluacja wyrażenia i związanie zmiennej z obliczoną wartością (to w leniwej gdy zmienna jest potrzebna)

@@ -1,0 +1,257 @@
+﻿  main.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(119,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(136,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(157,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(170,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(180,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(188,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(372,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(387,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(400,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(473,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(550,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(852,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(853,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(885,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(886,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(935,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(936,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1): warning C4812: obsolete declaration style: please use 'CTree<T>::CTree' instead
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812: obsolete declaration style: please use 'CRefCounter<T>::CRefCounter' instead
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(114,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(114,27):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(163,62):
+  	see reference to class template instantiation 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(36,26):
+  	while compiling class template member function 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CTree(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(38,19):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CTree' in 'Interface::Interface'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(95,65):
+  	while compiling class template member function 'bool CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(149,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(149,8):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(144,41):
+  	while compiling class template member function 'int CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::variables_amount(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(186,6):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::variables_amount' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812: obsolete declaration style: please use 'CRefCounter<T>::CRefCounter' instead
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812:         with
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812:         [
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812:             T=int
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1): warning C4812:         ]
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\main.cpp(11,24):
+  	see reference to class template instantiation 'CMySmartPointer<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CMySmartPointer.h(18,51):
+  	while compiling class template member function 'CMySmartPointer<int>::CMySmartPointer(T *)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\main.cpp(11,26):
+  		see the first reference to 'CMySmartPointer<int>::CMySmartPointer' in 'main'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CMySmartPointer.h(20,19):
+  	see reference to class template instantiation 'CRefCounter<T>' being compiled
+          with
+          [
+              T=int
+          ]
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(23,34):
+  	while compiling class template member function 'CRefCounter<T>::CRefCounter(void)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CMySmartPointer.h(20,13):
+  		see the first reference to 'CRefCounter<T>::CRefCounter' in 'CMySmartPointer<int>::CMySmartPointer'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\main.cpp(11,26):
+  		see the first reference to 'CMySmartPointer<int>::CMySmartPointer' in 'main'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(45,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(45,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CRefCounter.h(43,69):
+  	while compiling class template member function 'bool CRefCounter<T>::vRemovePointer(CMySmartPointer<T> *)'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CMySmartPointer.h(35,28):
+  		see the first reference to 'CRefCounter<T>::vRemovePointer' in 'CMySmartPointer<int>::~CMySmartPointer'
+          with
+          [
+              T=int
+          ]
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\main.cpp(11,26):
+  		see the first reference to 'CMySmartPointer<int>::~CMySmartPointer' in 'main'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(290,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(290,25):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(366,41):
+  	see reference to class template instantiation 'CNode<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(558,51):
+  	while compiling class template member function 'int CNode<int>::get_type_of_char(char)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(379,2):
+  		see the first reference to 'CNode<int>::get_type_of_char' in 'CNode<int>::build_typed_value'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(47,30):
+  	while compiling class template member function 'CNode<int>::~CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(39,1):
+  		see the first reference to 'CNode<int>::~CNode' in 'CNode<int>::~CNode'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(196,64):
+  	while compiling class template member function 'int CNode<int>::add_to_node(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(97,26):
+  		see the first reference to 'CNode<int>::add_to_node' in 'CTree<int>::create_tree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(339,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(361,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1): warning C4812: obsolete declaration style: please use 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CTree' instead
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(95,65):
+  	while compiling class template member function 'bool CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::create_tree' in 'Interface::start_program'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,53):
+  	while compiling class template member function 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CTree(CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>> &&)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(88,2):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CTree' in 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::operator +'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(229,19):
+  		see the first reference to 'CTree<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::operator +' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1): warning C4812: obsolete declaration style: please use 'CTree<bool>::CTree' instead
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(95,65):
+  	while compiling class template member function 'bool CTree<bool>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<bool>::create_tree' in 'Interface::start_program'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,53):
+  	while compiling class template member function 'CTree<bool>::CTree(CTree<bool> &&)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(88,2):
+  		see the first reference to 'CTree<bool>::CTree' in 'CTree<bool>::operator +'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(229,19):
+  		see the first reference to 'CTree<bool>::operator +' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1): warning C4812: obsolete declaration style: please use 'CTree<int>::CTree' instead
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(95,65):
+  	while compiling class template member function 'bool CTree<int>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,53):
+  	while compiling class template member function 'CTree<int>::CTree(CTree<int> &&)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(88,2):
+  		see the first reference to 'CTree<int>::CTree' in 'CTree<int>::operator +'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(229,19):
+  		see the first reference to 'CTree<int>::operator +' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1): warning C4812: obsolete declaration style: please use 'CTree<double>::CTree' instead
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,1):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(95,65):
+  	while compiling class template member function 'bool CTree<double>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(142,4):
+  		see the first reference to 'CTree<double>::create_tree' in 'Interface::start_program'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(51,53):
+  	while compiling class template member function 'CTree<double>::CTree(CTree<double> &&)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CTree.h(88,2):
+  		see the first reference to 'CTree<double>::CTree' in 'CTree<double>::operator +'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\Interface.h(229,19):
+  		see the first reference to 'CTree<double>::operator +' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(412,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(412,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(196,64):
+  	while compiling class template member function 'int CNode<T>::add_to_node(std::string,int *)'
+          with
+          [
+              T=double
+          ]
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(405,70):
+  	while compiling class template member function 'int CNode<T>::build_typed_value(int *,std::string)'
+          with
+          [
+              T=double
+          ]
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(425,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(430,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(442,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\Lista5\CNode.h(455,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Lista5.vcxproj -> C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista5\x64\Debug\Lista5.exe

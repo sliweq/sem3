@@ -1,0 +1,257 @@
+﻿  Interface.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(84,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(96,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(99,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(123,18): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(131,18): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(131,58): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(169,16): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(180,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(202,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(279,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(453,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(505,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(214,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(217,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(223,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(225,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(242,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(255,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(257,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(273,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(275,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(292,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(294,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(309,18): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(320,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(325,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(339,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(341,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(344,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(358,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(360,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(363,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(385,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(392,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(146,39): warning C4018: '>': signed/unsigned mismatch
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(146,39):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(62,3):
+  	see reference to function template instantiation 'void Interface::start_program<std::string>(CTree<std::string> *)' being compiled
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(153,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(88,17): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(88,17):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(48,8):
+  	see reference to class template instantiation 'CTree<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(37,26):
+  	while compiling class template member function 'CTree<int>::CTree(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(9,16):
+  		see the first reference to 'CTree<int>::CTree' in 'Interface::Interface'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(74,65):
+  	while compiling class template member function 'bool CTree<int>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(106,5):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(91,24): warning C4018: '>': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(115,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(115,20):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(108,36):
+  	while compiling class template member function 'void CTree<int>::vars_ctree(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(119,27):
+  		see the first reference to 'CTree<int>::vars_ctree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(311,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(311,21):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(82,43):
+  	see reference to class template instantiation 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(57,26):
+  	while compiling class template member function 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(133,22):
+  		see the first reference to 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::CNode' in 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::add_to_node'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(62,30):
+  	while compiling class template member function 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::~CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(42,1):
+  		see the first reference to 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::~CNode' in 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::~CNode'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(309,82):
+  	while compiling class template member function 'void CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::vars_cnode(std::vector<std::string,std::allocator<std::string>> *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(112,25):
+  		see the first reference to 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::vars_cnode' in 'CTree<std::string>::vars_ctree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(119,27):
+  		see the first reference to 'CTree<std::string>::vars_ctree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(317,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(334,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(334,20):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(329,63):
+  	while compiling class template member function 'void CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::copy_node_value(CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>> *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(60,30):
+  		see the first reference to 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::copy_node_value' in 'CTree<std::string>::operator ='
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(190,19):
+  		see the first reference to 'CTree<std::string>::operator =' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(415,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(415,22):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(381,42):
+  	while compiling class template member function 'int CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::is_properly_built(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(78,20):
+  		see the first reference to 'CNode<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>::is_properly_built' in 'CTree<std::string>::create_tree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(106,5):
+  		see the first reference to 'CTree<std::string>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(297,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(297,20):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(153,41):
+  	see reference to class template instantiation 'CNode<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(62,30):
+  	while compiling class template member function 'CNode<int>::~CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(42,1):
+  		see the first reference to 'CNode<int>::~CNode' in 'CNode<int>::~CNode'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(57,26):
+  	while compiling class template member function 'CNode<int>::CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(38,12):
+  		see the first reference to 'CNode<int>::CNode' in 'CTree<int>::CTree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(9,16):
+  		see the first reference to 'CTree<int>::CTree' in 'Interface::Interface'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(291,41):
+  	while compiling class template member function 'void CNode<int>::print_this_node(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(103,28):
+  		see the first reference to 'CNode<int>::print_this_node' in 'CTree<int>::print_tree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(129,27):
+  		see the first reference to 'CTree<int>::print_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(439,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(439,21):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(432,37):
+  	while compiling class template member function 'void CNode<int>::repair_node(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(85,27):
+  		see the first reference to 'CNode<int>::repair_node' in 'CTree<int>::create_tree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(106,5):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(465,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Interface.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(465,21):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(460,147):
+  	while compiling class template member function 'std::string CNode<int>::node_answer_the_problem(std::vector<std::string,std::allocator<std::string>> *,std::vector<std::string,std::allocator<std::string>> *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(148,21):
+  		see the first reference to 'CNode<int>::node_answer_the_problem' in 'CTree<int>::tree_solve_the_problem'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.cpp(149,74):
+  		see the first reference to 'CTree<int>::tree_solve_the_problem' in 'Interface::start_program'
+  
+  main.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(84,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(96,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(99,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(123,18): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(131,18): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(131,58): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(169,16): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(180,16): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(202,13): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(279,20): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(453,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(505,21): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(497): warning C4715: 'CNode<double>::node_answer_the_problem': not all control paths return a value
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(497): warning C4715: 'CNode<int>::node_answer_the_problem': not all control paths return a value
+main.obj : error LNK2005: "int letters_amount" (?letters_amount@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int numbers_amount" (?numbers_amount@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int operators_amount" (?operators_amount@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int sin_size" (?sin_size@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "char quote_mark_char" (?quote_mark_char@@3DA) already defined in Interface.obj
+main.obj : error LNK2005: "int type_not_added" (?type_not_added@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int type_sin_cos" (?type_sin_cos@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int type_operators_cons" (?type_operators_cons@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int type_numbers_0_child" (?type_numbers_0_child@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int type_variables" (?type_variables@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int error_type" (?error_type@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int double_index_inc" (?double_index_inc@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_illegal_arg" (?get_type_of_char_illegal_arg@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_int" (?get_type_of_char_int@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_operator" (?get_type_of_char_operator@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_letter" (?get_type_of_char_letter@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_space" (?get_type_of_char_space@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_dot" (?get_type_of_char_dot@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int get_type_of_char_mark" (?get_type_of_char_mark@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int error_pro_build" (?error_pro_build@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "int index_inceaser" (?index_inceaser@@3HA) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * table_of_trygonometric_operators" (?table_of_trygonometric_operators@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * table_of_numbers" (?table_of_numbers@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * table_of_letters" (?table_of_letters@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * table_of_operators" (?table_of_operators@@3PAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > dot_char_for_double" (?dot_char_for_double@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > node_space_char" (?node_space_char@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > zero_var_string" (?zero_var_string@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > error_syntax" (?error_syntax@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > error_many_arguments" (?error_many_arguments@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+main.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > tree_space_char" (?tree_space_char@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in Interface.obj
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Debug\Lista4_ostateczna.exe : fatal error LNK1169: one or more multiply defined symbols found

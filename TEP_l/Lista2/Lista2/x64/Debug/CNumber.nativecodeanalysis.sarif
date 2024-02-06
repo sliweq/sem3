@@ -1,0 +1,194 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Zmienna „CNumber::pi_table” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10,
+                  "endLine": 6,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CNumber::{ctor}",
+                  "decoratedName": "??0CNumber@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CNumber::pi_table"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Zmienna „CNumber::is_positive” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10,
+                  "endLine": 6,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CNumber::{ctor}",
+                  "decoratedName": "??0CNumber@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CNumber::is_positive"
+          }
+        },
+        {
+          "ruleId": "C26495",
+          "message": {
+            "text": "Zmienna „CNumber::i_length” jest niezainicjowana. Zawsze inicjuj zmienną składową (type.6)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+                },
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 10,
+                  "endLine": 6,
+                  "endColumn": 10
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CNumber::{ctor}",
+                  "decoratedName": "??0CNumber@@QEAA@XZ",
+                  "kind": "function"
+                }
+              ]
+            }
+          ],
+          "properties": {
+            "targetSymbol": "CNumber::i_length"
+          }
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Przepełnienie arytmetyczne: użycie operatora „+” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „+” w celu uniknięcia przepełnienia (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+                },
+                "region": {
+                  "startLine": 88,
+                  "startColumn": 38,
+                  "endLine": 88,
+                  "endColumn": 57
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CNumber::+",
+                  "decoratedName": "??HCNumber@@QEAAXAEBV0@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ruleId": "C26451",
+          "message": {
+            "text": "Przepełnienie arytmetyczne: użycie operatora „+” dla wartości bajtowej 4, a następnie rzutowanie wyniku na wartość bajtową 8. Rzutuj wartość na szerszy typ przed wywołaniem operatora „+” w celu uniknięcia przepełnienia (io.2)."
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+                },
+                "region": {
+                  "startLine": 166,
+                  "startColumn": 41,
+                  "endLine": 166,
+                  "endColumn": 60
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "CNumber::v_add_two_tables",
+                  "decoratedName": "?v_add_two_tables@CNumber@@QEAAXV1@PEAV1@@Z",
+                  "kind": "function"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///C:/Users/jj_sl/Documents/Visual Studio 2022/Projects/Lista2/Lista2/CNumber.cpp"
+          },
+          "roles": [
+            "analysisTarget",
+            "resultFile"
+          ],
+          "hashes": {
+            "sha-256": "68d4bef76aed5811a3c5a1db924f07ecc88c7f72138dd519eb14b8596639d193"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/jj_sl/documents/visual studio 2022/projects/lista2/lista2/cnumber.h"
+          },
+          "hashes": {
+            "sha-256": "0b41ebcf95355302e24b1fe5580cb44c8c54190409cc8d59b5115b35f110cfd4"
+          }
+        }
+      ]
+    }
+  ]
+}

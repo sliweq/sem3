@@ -1,0 +1,15 @@
+﻿  CGeneticAlgorithm.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\AGChallenge\CGeneticAlgorithm.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CIndividual.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\AGChallenge\CIndividual.cpp(72,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\AGChallenge\CIndividual.cpp(88,59): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Optimizer.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\AGChallenge\Optimizer.cpp(11,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\AGChallenge\Optimizer.cpp(11,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 690 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AGChallenge.vcxproj -> C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\AGChallangePublFinal\x64\Release\AGChallenge.exe

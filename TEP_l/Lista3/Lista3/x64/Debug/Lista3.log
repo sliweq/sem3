@@ -1,0 +1,5 @@
+﻿  CNode.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista3\Lista3\CNode.cpp(226,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista3\Lista3\CNode.cpp(352,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista3\Lista3\CNode.cpp(454): warning C4715: 'CNode::node_answer_the_problem': not all control paths return a value
+  Lista3.vcxproj -> C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista3\x64\Debug\Lista3.exe

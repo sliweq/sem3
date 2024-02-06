@@ -1,0 +1,135 @@
+﻿  main.cpp
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(119,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(136,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(157,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(170,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(180,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(188,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(372,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(387,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(400,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(473,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(550,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(852,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(853,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(885,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(886,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(935,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(936,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(93,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(93,27):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(48,8):
+  	see reference to class template instantiation 'CTree<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(37,26):
+  	while compiling class template member function 'CTree<int>::CTree(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.h(36,16):
+  		see the first reference to 'CTree<int>::CTree' in 'Interface::Interface'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(74,65):
+  	while compiling class template member function 'bool CTree<int>::create_tree(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.h(140,5):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(128,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(128,8):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(123,41):
+  	while compiling class template member function 'int CTree<int>::variables_amount(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.h(184,7):
+  		see the first reference to 'CTree<int>::variables_amount' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(290,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(290,25):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(366,41):
+  	see reference to class template instantiation 'CNode<int>' being compiled
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(47,30):
+  	while compiling class template member function 'CNode<int>::~CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(39,1):
+  		see the first reference to 'CNode<int>::~CNode' in 'CNode<int>::~CNode'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(42,26):
+  	while compiling class template member function 'CNode<int>::CNode(void)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(38,12):
+  		see the first reference to 'CNode<int>::CNode' in 'CTree<int>::CTree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.h(36,16):
+  		see the first reference to 'CTree<int>::CTree' in 'Interface::Interface'
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(196,64):
+  	while compiling class template member function 'int CNode<int>::add_to_node(std::string,int *)'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CTree.h(76,26):
+  		see the first reference to 'CNode<int>::add_to_node' in 'CTree<int>::create_tree'
+  		C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\Interface.h(140,5):
+  		see the first reference to 'CTree<int>::create_tree' in 'Interface::start_program'
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(339,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(361,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(412,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(412,24):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(196,64):
+  	while compiling class template member function 'int CNode<T>::add_to_node(std::string,int *)'
+          with
+          [
+              T=double
+          ]
+  	C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(405,70):
+  	while compiling class template member function 'int CNode<T>::build_typed_value(int *,std::string)'
+          with
+          [
+              T=double
+          ]
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(425,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(430,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(442,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\Lista4_ostateczna\CNode.h(455,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Lista4_ostateczna.vcxproj -> C:\Users\jj_sl\Documents\Visual Studio 2022\Projects\Lista4_ostateczna\x64\Debug\Lista4_ostateczna.exe
